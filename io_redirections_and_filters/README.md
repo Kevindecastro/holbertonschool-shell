@@ -68,4 +68,8 @@
 
 ### 16 . What's next?
 
-#### Display lines containing the pattern “root” and 3 lines after them in the file /etc/passw
+#### Display lines containing the pattern “root” and 3 lines after them in the file /etc/pasd
+
+### 17 . I hate bins
+
+#### Display all the lines in the file /etc/passwd that do not contain the pattern “bin�
