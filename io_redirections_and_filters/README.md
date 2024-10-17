@@ -2,6 +2,10 @@
 
 ## Tasks
 
-### 0 . Helle World
+### 0 . Hello World
 
-#### Write a script that prints “Hello, World”, followed by a new line to the standard outpu
+#### Write a script that prints “Hello, World”, followed by a new line to the standard outt
+
+### 1 . Confused smiley
+
+#### Write a script that displays a confused smiley "(Ôo)'
