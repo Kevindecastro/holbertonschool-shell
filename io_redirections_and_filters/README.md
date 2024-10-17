@@ -60,4 +60,10 @@
 
 ### 14 . It must be in that file
 
-#### Display lines containing the pattern “root” from the file /etc/pass
+#### Display lines containing the pattern “root” from the file /etc/pa
+
+### 15 . Count that word
+
+#### Display the number of lines that contain the pattern “bin” in the file /etc/pass
+
+
