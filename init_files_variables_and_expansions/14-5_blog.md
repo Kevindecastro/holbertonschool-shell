@@ -43,3 +43,7 @@ You'll now see a list of files with the ".c" extension in your current directory
 Once you have the list of files, you can use various commands to manipulate or process them. For example, you can compile your C programs using a command like gcc or perform other operations on these files.
 
 In summary, when you type ls *.c and hit Enter in your shell, you're effectively asking the shell to list all files with a ".c" extension in the current directory. The wildcard * is used to match any characters in the filenames, and the ls command displays the results in your terminal, making it a handy tool for managing and organizing your files.
+
+my blog url : https://www.linkedin.com/pulse/step-by-step-guide-what-happens-when-you-type-ls-c-martins-de-castro-hvsef/ 
+
+
