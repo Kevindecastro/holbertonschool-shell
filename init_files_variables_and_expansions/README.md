@@ -89,4 +89,32 @@ The number will be stored in the environment variable NUM.
 The number in base 10 is stored in the environment variable DECIMAL
 The script should display the number in base 16, followed by a new line
 
-###
+### 15 . What happens when you type ls *.c
+
+#### Write a blog post describing step by step what happens when you type ls *.c and hit Enter in your shell. Try to explain every step you know of, and give examples. A total beginner should understand what you have written.
+
+Have at least one picture, at the top of the blog post
+Publish your blog post on Medium or LinkedIn
+Share your blog post at least on LinkedIn
+Write professionally and intelligibly
+Please, remember that these blogs must be written in English to further your technical ability in a variety of settings
+
+url : https://www.linkedin.com/pulse/step-by-step-guide-what-happens-when-you-type-ls-c-martins-de-castro-hvsef/
+
+### 16 . Everyone is a proponent of strong encryption
+
+#### Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+### 17 . The eggs of the brood need to be an odd number
+
+#### Write a script that prints every other line from the input, starting with the first line.
+
+### 18 .  I'm an instant star. Just add water and stir.
+
+#### Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
+WATER is in base water
+STIR is in base stir.
+The result should be in base bestchol
+
+
