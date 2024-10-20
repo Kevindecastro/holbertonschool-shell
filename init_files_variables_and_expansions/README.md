@@ -19,3 +19,7 @@ Value: rm *
 ### 3 .If the path be beautiful, let us not ask where it leads
 
 #### Create a script that counts the number of directories in the PATH.
+
+### 4 . Global variables
+
+#### Create a script that lists environment variables
